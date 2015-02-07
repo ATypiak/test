@@ -1,1 +1,3 @@
 To jest plik testowy
+
+Druga linia, blablabla, tralala.
